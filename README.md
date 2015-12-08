@@ -19,3 +19,4 @@ Abra o cmd e vá até a página do plugin, execute o seguinte comando:
 ```
 regsvr32 npJSystem.dll
 ```
+Não esqueça de reiniciar o computador.
