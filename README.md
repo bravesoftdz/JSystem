@@ -17,5 +17,5 @@ sudo cp JSystem.so ~/.mozilla/plugins/
 ###Windows
 Abra o cmd e vá até a página do plugin, execute o seguinte comando:
 ```
-regsvr32 JSystem.dll
+regsvr32 npJSystem.dll
 ```
